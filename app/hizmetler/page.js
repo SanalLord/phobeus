@@ -137,7 +137,7 @@ export default function Services() {
       icon: Code,
       title: 'Özel Web Uygulamaları',
       description: 'İhtiyaçlarınıza özel geliştirilmiş, ölçeklenebilir web uygulamaları. API entegrasyonları ve özel çözümler.',
-      image: 'https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NTJ8MHwxfHNlYXJjaHwzfHx0ZWNobm9sb2d5fGVufDB8fHxibGFja3wxNzY5NzU2MDY0fDA&ixlib=rb-4.1.0&q=85',
+      image: 'https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg',
       color: 'from-blue-500 to-cyan-500',
       features: [
         'İhtiyaca Özel Tasarım ve Geliştirme',
