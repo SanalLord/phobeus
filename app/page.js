@@ -495,7 +495,7 @@ export default function Home() {
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Button>
               </Link>
-              <a href="https://discord.gg/kAuEdr7pmf" target="_blank" rel="noopener noreferrer">
+              <a href="https://discord.gg/Q7wHXB4RBR" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-[#ff9625] px-10 py-6 text-lg font-semibold rounded-full transition-all duration-300 hover:scale-105">
                   Discord'a Katıl
                 </Button>
