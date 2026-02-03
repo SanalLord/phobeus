@@ -24,7 +24,7 @@ export default function Footer() {
       { label: 'İletişim', href: '/iletisim' },
       { label: 'SSS', href: '/sss' },
       { label: 'Dökümanlar', href: '/dokumanlar' },
-      { label: 'Discord', href: 'https://discord.gg/kAuEdr7pmf' },
+      { label: 'Discord', href: 'https://discord.gg/Q7wHXB4RBR' },
     ],
   }
 
@@ -133,7 +133,7 @@ export default function Footer() {
             </div>
 
             <a
-              href="https://discord.gg/kAuEdr7pmf"
+              href="https://discord.gg/Q7wHXB4RBR"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-gradient-to-r from-[#ff9625] to-orange-600 hover:from-[#ff9625] hover:to-orange-700 text-white font-semibold rounded-full shadow-lg shadow-orange-500/50 hover:shadow-orange-500/70 transition-all duration-300 hover:scale-105"
