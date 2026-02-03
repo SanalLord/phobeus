@@ -79,7 +79,7 @@ export default function Navigation() {
 
           {/* CTA Button */}
           <div className="hidden md:flex items-center space-x-4">
-            <a href="https://discord.gg/kAuEdr7pmf" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/Q7wHXB4RBR" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="outline"
                 className="border-[#ff9625] text-[#ff9625] hover:bg-[#ff9625] hover:text-white transition-all duration-300"
@@ -126,7 +126,7 @@ export default function Navigation() {
                 </Link>
               ))}
               <div className="pt-4 space-y-3">
-                <a href="https://discord.gg/kAuEdr7pmf" target="_blank" rel="noopener noreferrer" className="block">
+                <a href="https://discord.gg/Q7wHXB4RBR" target="_blank" rel="noopener noreferrer" className="block">
                   <Button
                     variant="outline"
                     className="w-full border-[#ff9625] text-[#ff9625] hover:bg-[#ff9625] hover:text-white transition-all duration-300"
