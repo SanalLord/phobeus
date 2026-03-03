@@ -29,7 +29,7 @@ export default function Services() {
       icon: Globe,
       title: 'Kurumsal Web Siteleri',
       description: 'Markanızı en iyi şekilde yansıtan, profesyonel ve modern kurumsal web siteleri ile dijital dünyada fark yaratın.',
-      image: 'https://mericreative.com/wp-content/uploads/2025/05/Bordum-ahsap-Web-Site-tasarimi-kurumsal-web-site.jpg',
+      image: 'https://www.sitenizin.com/admin/assets/img/urunler/2623030288.jpg',
       color: 'from-[#ff9625] to-orange-600',
       features: [
         'Kurumsal Kimliğe Özel Tasarım',
