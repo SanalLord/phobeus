@@ -44,18 +44,18 @@ export default function Services() {
       packages: [
         {
           name: 'Başlangıç',
-          price: '₺2.999',
+          price: '₺9.999',
           features: ['5 Sayfa', 'Temel SEO', 'İletişim Formu', '1 Ay Destek']
         },
         {
           name: 'Profesyonel',
-          price: '₺3.999',
+          price: '₺14.999',
           features: ['10 Sayfa', 'Gelişmiş SEO', 'Blog Sistemi', '3 Ay Destek', 'Admin Paneli'],
           popular: true
         },
         {
           name: 'Premium',
-          price: '₺6.999',
+          price: '₺19.999',
           features: ['Sınırsız Sayfa', 'Pro SEO', 'Özel Özellikler', '6 Ay Destek', 'Özel Tasarım', 'Web Güvenliği']
         }
       ]
@@ -80,18 +80,18 @@ export default function Services() {
       packages: [
         {
           name: 'Temel',
-          price: '₺3.999',
+          price: '₺11.999',
           features: ['Ana Sayfa', 'Kadro Sayfası', 'İletişim', 'Discord Entegrasyonu']
         },
         {
           name: 'Gelişmiş',
-          price: '₺7.999',
+          price: '₺16.999',
           features: ['Oyuncu Paneli', 'Market Sistemi', 'Whitelist', 'Sunucu İstatistikleri', 'Admin Panel'],
           popular: true
         },
         {
           name: 'Ultimate',
-          price: '₺9.999',
+          price: '₺21.999',
           features: ['Tüm Özellikler', 'Özel Eklentiler', 'API Geliştirme', '1 Yıl Destek', 'Benzersiz Tasarım', 'Web Güvenliği']
         }
       ]
@@ -116,18 +116,18 @@ export default function Services() {
       packages: [
         {
           name: 'Starter',
-          price: '₺5.999',
+          price: '₺15.999',
           features: ['Mağaza Sistemi', 'Ödeme Entegrasyonu', 'Temel Admin Panel', '2 Ay Destek']
         },
         {
           name: 'Pro',
-          price: '₺8.999',
+          price: '₺19.999',
           features: ['Gelişmiş Mağaza', 'Oyuncu Paneli', 'İstatistikler', 'Kupon Sistemi', '4 Ay Destek'],
           popular: true
         },
         {
           name: 'Enterprise',
-          price: '₺11.999',
+          price: '₺25.999',
           features: ['Çoklu Sunucu', 'API Entegrasyonu', 'Özel Özellikler', '1 Yıl Destek', 'Priority Support', 'Web Güvenliği']
         }
       ]
@@ -137,7 +137,7 @@ export default function Services() {
       icon: Code,
       title: 'Özel Web Uygulamaları',
       description: 'İhtiyaçlarınıza özel geliştirilmiş, ölçeklenebilir web uygulamaları. API entegrasyonları ve özel çözümler.',
-      image: 'https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg',
+      image: 'https://images.unsplash.com/photo-1621111848501-8d3634f82336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg',
       color: 'from-blue-500 to-cyan-500',
       features: [
         'İhtiyaca Özel Tasarım ve Geliştirme',
@@ -152,7 +152,7 @@ export default function Services() {
       packages: [
         {
           name: 'Danışmanlık',
-          price: '₺1.999',
+          price: '₺3.999',
           features: ['Proje Analizi', 'Teknik Danışmanlık', 'Maliyet Hesaplama', 'Yol Haritası']
         },
         {
